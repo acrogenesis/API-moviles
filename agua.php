@@ -7,6 +7,6 @@
   },
   "dibujos":{
     "nombre":"el gran tesoro",
-    "url":"http://intranet.bluehats.mx/moviles/pngs/el_gran_tesoro.pdf"
+    "url":"http://intranet.bluehats.mx/moviles/pngs/el_gran_tesoro.png"
   }
 }

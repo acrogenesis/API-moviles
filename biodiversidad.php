@@ -7,6 +7,6 @@
   },
   "dibujos":{
     "nombre":"tres animales en la ciudad",
-    "url":"http://intranet.bluehats.mx/moviles/pngs/tres_animales_en_la_ciudad.pdf"
+    "url":"http://intranet.bluehats.mx/moviles/pngs/tres_animales_en_la_ciudad.png"
   }
 }

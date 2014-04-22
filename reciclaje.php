@@ -7,6 +7,6 @@
   },
   "dibujos":{
     "nombre":"la ciudad basura",
-    "url":"http://intranet.bluehats.mx/moviles/pngs/la_ciudad_basura.pdf"
+    "url":"http://intranet.bluehats.mx/moviles/pngs/la_ciudad_basura.png"
   }
 }

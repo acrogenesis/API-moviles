@@ -7,6 +7,6 @@
   },
   "dibujos":{
     "nombre":"un mundo sin luz",
-    "url":"http://intranet.bluehats.mx/moviles/pngs/un_mundo_sin_luz.pdf"
+    "url":"http://intranet.bluehats.mx/moviles/pngs/un_mundo_sin_luz.png"
   }
 }
