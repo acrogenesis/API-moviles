@@ -3,7 +3,7 @@
 ?>
 {
   "videos":{
-    1:"http://www.youtube.com/watch?v=ER8ompQN5QM"
+    "1":"http://www.youtube.com/watch?v=ER8ompQN5QM"
   },
   "dibujos":{
     "nombre":"un mundo sin luz",

@@ -3,7 +3,7 @@
 ?>
 {
   "videos":{
-    1:"http://www.youtube.com/watch?v=ea_WRUux0Zg"
+    "1":"http://www.youtube.com/watch?v=ea_WRUux0Zg"
   },
   "dibujos":{
     "nombre":"la ciudad basura",
