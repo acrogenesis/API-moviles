@@ -1,3 +1,6 @@
+<?php
+  header("Content-type: application/json");
+?>
 {
   "videos":{
     1:"http://www.youtube.com/watch?v=XFOx9QnMcEg"
